@@ -1,7 +1,7 @@
 Hash.js
 =========
 
-Handles URIs changes dynamically.
+Handles URI changes dynamically.
 
 **Features**
 
