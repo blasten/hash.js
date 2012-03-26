@@ -3,10 +3,9 @@ Hash.js
 
 Handles URIs changes dynamically.
 
-** Features **
+**Features**
 
 * Uses pushState
-* 
 * Uses the classic URI hash
 
 
